@@ -15,6 +15,7 @@
 		<!-- only load the mobile lib "sap.m" and the "sap_bluecrystal" theme -->
 
 		<script>
+			//attaching application to the core framework
             var oCore = sap.ui.getCore().attachInit(function(){
 			var oButton = new sap.m.Button("IdButton",{text:"Click Me", press: function(){
 				alert("Hello World");
