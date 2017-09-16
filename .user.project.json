@@ -15,7 +15,11 @@
         "runnerId": "webapprunner",
         "id": 7778589,
         "displayName": "Run index.html",
+<<<<<<< HEAD
         "lastRunTimeStamp": 1505582812646
+=======
+        "lastRunTimeStamp": 1504679352732
+>>>>>>> branch 'master' of https://github.com/santanumohanta/3.sapui5_3_HelloWorld_webide.git
       }
     }
   ]
